@@ -1,5 +1,5 @@
-Combine some React component to make a simple Reponsive Navigation.
+Combine some React components to make a simple Reponsive Navigation.
 
-Main propose is to learn the React eco-system
+Main purpose is to learn the React eco-system
 
 react learning batte-field in progress...
