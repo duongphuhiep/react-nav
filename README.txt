@@ -1,3 +1,5 @@
-react learning batte-field
+Combine some React component to make a simple Reponsive Navigation.
 
-in progress...
+Main propose is to learn the React eco-system
+
+react learning batte-field in progress...
